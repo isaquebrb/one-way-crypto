@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: one-way-cryptography
+  datasource:
+    url: jdbc:postgresql://localhost:5432/db-crypto
+    password: postgres
+    username: postgres
