@@ -1,10 +1,10 @@
-package br.com.isaquebrb.onewaycryptography;
+package br.com.isaquebrb.onewaycrypto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OneWayCryptographyApplicationTests {
+class OneWayCryptoApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,1 +1,1 @@
-# one-way-cryptography
+# one-way-crypto

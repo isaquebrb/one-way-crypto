@@ -1,13 +1,13 @@
-package br.com.isaquebrb.onewaycryptography;
+package br.com.isaquebrb.onewaycrypto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OneWayCryptographyApplication {
+public class OneWayCryptoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OneWayCryptographyApplication.class, args);
+		SpringApplication.run(OneWayCryptoApplication.class, args);
 	}
 
 }
